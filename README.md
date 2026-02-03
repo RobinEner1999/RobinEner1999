@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobinEner1999
-- 👀 I’m interested in Full Stack Developer!
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 👀 I’m interested in Full Stack Developer , Music tools and Machine Learning!
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
 - 📫 How to reach me : valdesener@gmail.com iG: @ener_valdes
 - 😄 Pronouns: ... Robin , ener
 - ⚡ Fun fact: ... Soy musico!
